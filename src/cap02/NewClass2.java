@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cap01;
+package cap02;
 
 /**
  *
- * @author Hector
+ * @author cice
  */
-public class Chiquito {
+public class NewClass2 {
     
 }
