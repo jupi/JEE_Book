@@ -12,7 +12,7 @@ public class TestFecha {
     public static void main (String[] args){
     
     Fecha f = new Fecha(30, 9, 1974);
-    
+    Fecha f2 = new Fecha(6,4,1993); 
     
     
        
