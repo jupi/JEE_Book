@@ -5,7 +5,7 @@ Ahora podemos desarrollar una aplicación en la que el usuario ingrese una fecha
 en formato dd/mm/aaaa y una cantidad de días para sumarle, y nuestro programa
 le mostrará la fecha resultante.
  */
-package cap02_POO.clases_objetos;
+package cap02.objetos_y_clases;
 
 import java.util.Scanner;
 

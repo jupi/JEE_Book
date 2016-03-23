@@ -34,7 +34,7 @@ que correspondan a los atributos dia, mes y anio. Este método también será
 private ya que no nos interesa que el usuario lo pueda invocar. 
 
  */
-package cap02_POO.clases_objetos;
+package cap02.objetos_y_clases;
 
 public class FechaEncapsulada {
     

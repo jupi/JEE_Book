@@ -1,3 +1,5 @@
+package cap02.objetos_y_clases;
+
 /*
 
 Podremos invocar cualquier método definido como public, como: todos

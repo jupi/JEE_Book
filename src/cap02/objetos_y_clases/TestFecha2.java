@@ -1,5 +1,5 @@
 
-package cap02_POO.clases_objetos;
+package cap02.objetos_y_clases;
 
 import java.util.Scanner;
 
