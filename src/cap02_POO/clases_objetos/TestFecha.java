@@ -17,7 +17,7 @@ public class TestFecha {
     
        
         System.out.println(f);
-        
+        System.out.println(f2);
     
     
     }
