@@ -5,7 +5,7 @@ para asignar y/o consultar sus valores, como vemos en el siguiente código:
 
 
  */
-package cap02;
+package cap02_POO.clases_objetos;
 
 public class TestFecha {
 

@@ -13,19 +13,18 @@ de nuestras clases y el criterio de comparación (respectivamente).
 Java defi ne por nosotros en caso de que no lo hayamos programado.
 • Si programamos explícitamente el constructor entonces “perdemos” el constructor
 nulo.
-
-Ejemplo: compara dos fechas ingresadas por el usuario.
-En el siguiente programa, pedimos al usuario que ingrese dos fechas y las comparamos
-utilizando su método equals.
-
  */
-package cap02;
+package cap02_POO.clases_objetos;
 
-public class TestFecha2 {
+public class TestFecha3 {
 
     public static void main(String[] args ){
     
     
+        
+        
+        
+        
         
     }
     
