@@ -1,4 +1,11 @@
 /*
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Los métodos estáticos pueden invocarse directamente
+sobre la clase sin necesidad de instanciarla primero
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+*/
+
+/*
 ENCAPSULAMIENTO:
 ------------------
 *Uno de los objetivos que debemos perseguir cuando programamos clases es poder encapsular

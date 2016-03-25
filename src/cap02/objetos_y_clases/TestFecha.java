@@ -1,8 +1,13 @@
 /*
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Los métodos estáticos pueden invocarse directamente
+sobre la clase sin necesidad de instanciarla primero
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+*/
+
+/*
 La clase  Fecha provee métodos a través de los cuales podemos acceder a sus atributos
 para asignar y/o consultar sus valores, como vemos en el siguiente código:
-
-
 
  */
 package cap02.objetos_y_clases;

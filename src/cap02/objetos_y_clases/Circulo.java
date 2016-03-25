@@ -6,19 +6,26 @@ sobre la clase sin necesidad de instanciarla primero
 */
 
 
-
 package cap02.objetos_y_clases;
 
-public class TestFechaSobrecargada {
+public class Circulo extends FiguraGeometrica{
 
-    public static void main (String [] args){
+    private int radio;
     
-        FechaSobrecarga f = new FechaSobrecarga("10/05/2014");
-        
-        System.out.println(f);
-    
-    }
-    
+public Circulo(int r){
+
+    radio = r;
+
+
+}
+
+public double area(){
+
+return Math.PI*Math.pow(radio, 2);
+
+}
+
 
     
 }
+

@@ -5,17 +5,23 @@ sobre la clase sin necesidad de instanciarla primero
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 */
 
-
-
 package cap02.objetos_y_clases;
 
-public class TestFechaSobrecargada {
-
-    public static void main (String [] args){
+public class Rectangulo extends FiguraGeometrica {
     
-        FechaSobrecarga f = new FechaSobrecarga("10/05/2014");
-        
-        System.out.println(f);
+    private double base, altura;
+    
+    public Rectangulo(double b, double h){
+    
+        base = b;
+        altura = h;
+    
+    }
+    
+    public double area(){
+    
+    return base * altura;
+    
     
     }
     

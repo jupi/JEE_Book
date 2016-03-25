@@ -1,4 +1,11 @@
 /*
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Los métodos estáticos pueden invocarse directamente
+sobre la clase sin necesidad de instanciarla primero
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+*/
+
+/*
  Ejemplo: suma días a una fecha.
 --------------------------------
 Ahora podemos desarrollar una aplicación en la que el usuario ingrese una fecha expresada

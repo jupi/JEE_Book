@@ -1,3 +1,9 @@
+/*
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Los métodos estáticos pueden invocarse directamente
+sobre la clase sin necesidad de instanciarla primero
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+*/
 
 package cap02.objetos_y_clases;
 
