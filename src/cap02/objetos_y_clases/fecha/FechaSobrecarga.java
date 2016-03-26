@@ -5,7 +5,7 @@ sobre la clase sin necesidad de instanciarla primero
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 */
 
-package cap02.objetos_y_clases;
+package cap02.objetos_y_clases.fecha;
 /*
 OBJETIVO:
 hacer que la clase Fecha permita crear fechas a partir de una cadena

@@ -1,4 +1,4 @@
-package cap02.herencia_y_polimorfismo;
+package cap02.herencia_y_polimorfismo.fecha;
 
 public class TestFechaDetallada {
 

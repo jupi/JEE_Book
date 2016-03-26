@@ -24,9 +24,9 @@ Herencia y polimorfismo:
  */
 
 
-package cap02.herencia_y_polimorfismo;
+package cap02.herencia_y_polimorfismo.fecha;
 
-import cap02.objetos_y_clases.FechaSobrecarga;
+import cap02.objetos_y_clases.fecha.FechaSobrecarga;
 
 /*
 La clase FechaDetallada hereda de la clase base Fecha y sobrescribe el método

@@ -5,7 +5,11 @@ sobre la clase sin necesidad de instanciarla primero
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 */
 
-package cap02.herencia_y_polimorfismo;
+package cap02.herencia_y_polimorfismo.figuras;
+
+import cap02.herencia_y_polimorfismo.figuras.Triangulo;
+import cap02.herencia_y_polimorfismo.figuras.Rectangulo;
+import cap02.herencia_y_polimorfismo.figuras.Circulo;
 
 public class TestFigurasGeometricas {
 

@@ -6,7 +6,7 @@ sobre la clase sin necesidad de instanciarla primero
 */
 
 
-package cap02.herencia_y_polimorfismo;
+package cap02.herencia_y_polimorfismo.figuras;
 
 public class Circulo extends FiguraGeometrica{
 

@@ -20,7 +20,7 @@ por falta de información concreta. Estos métodos se llaman “métodos abstrac
 desarrollarse en las subclases, cuando esta información esté disponible.
 
  */
-package cap02.herencia_y_polimorfismo;
+package cap02.herencia_y_polimorfismo.figuras;
 
 public abstract class FiguraGeometrica {
 

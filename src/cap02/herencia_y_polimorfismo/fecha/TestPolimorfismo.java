@@ -6,7 +6,7 @@ tal motivo, independientemente del tipo de datos de la variable que los esté co
 estos ante la invocación de cualquiera de sus métodos siempre reaccionarán como su
 propia clase lo defina.
  */
-package cap02.herencia_y_polimorfismo;
+package cap02.herencia_y_polimorfismo.fecha;
 
 public class TestPolimorfismo {
 
