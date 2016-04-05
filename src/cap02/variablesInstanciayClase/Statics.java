@@ -1,5 +1,8 @@
 /*
 Métodos de la clase
+--------------------------
+
+
 Los métodos definidos como estáticos (static) se convierten en métodos de la clase
 y pueden ser invocados directamente a través de la clase sin necesidad de instanciarla.
 
